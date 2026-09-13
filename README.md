@@ -1,5 +1,8 @@
 # libfoxenflac ― Tiny, heap-allocation free FLAC decoder written in C 
 
+[![Arduino Library](https://img.shields.io/badge/Arduino-Library-blue.svg)](https://www.arduino.cc/reference/en/libraries/)
+[![IDF Component](https://img.shields.io/badge/IDF-Component-blue.svg)](https://github.com/pschatzmann/arduino-libfoxenflac)
+
 ![Build Status](https://github.com/astoeckel/libfoxenflac/actions/workflows/ci.yml/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/astoeckel/libfoxenflac/badge.svg)](https://coveralls.io/github/astoeckel/libfoxenflac)
 
